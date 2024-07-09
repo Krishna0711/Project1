@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MCQ_Generator
+Version: 0.0.1
+Summary: This file used to donload all the necessary files for this project
+Author: Krishna
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

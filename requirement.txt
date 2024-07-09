@@ -1,6 +1,6 @@
----------------- Library Requirement -----------------
-1.) OpenAI
-2.) Langchain
-3.) streamlit
-4.) python-dotenv
-5.) PyPdf2
+#---------------- Library Requirement -----------------
+OpenAI
+Langchain
+streamlit
+python-dotenv
+PyPdf2
